@@ -9,6 +9,7 @@ Final Project
 
 Here is my Process below! Any text in all caps describes the code function I created and what purpose I gave it. I labeled everything except the self-explanatory or code that shows up multiple times. 
 
+```
 long number1;  //THIS IS THE FIRST VARIABLE IN THE CALCULATION
 long number2; // THIS IS THE 2ND VARIABLE IN THE CALCULATION
 char operation; //THIS IS THE OPERATION (multiplication, division, addition, or subtraction)
